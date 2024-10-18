@@ -1,5 +1,13 @@
 # # 2D model plazov
 
+## Pridobitev repositorija
+
+Za pridobitev repozitorija uporabimo ukaz:
+```Bash
+git clone --branch Version_2024 https://github.com/ReneMarkovic/TBW_model.
+```
+
+
 ## Namestitev okolja
 
 V okolju windoes je potrebno namestiti virtualno okolje in nato aktivirati le tega. To storimo z naslednjimi ukazi:
